@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sy Doan / Site Title"
+title                    : "Sy Doan"
 title_separator          : "-"
 name                     : &name "Sy Doan"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Sy Doan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD Student at Peabody College, Vanderbilt University"
+  location         : "Nashville, TN"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "imsydoan"
   vine             :
   weibo            :
   xing             :
