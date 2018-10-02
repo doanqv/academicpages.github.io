@@ -191,6 +191,16 @@ defaults:
     values:
       layout: single
       author_profile: true
+ # _press
+  - scope:
+      path: ""
+      type: press
+    values:
+      layout: single
+      author_profile: true
+      share: true
+comments: true
+      
 
 # Sass/SCSS
 sass:
