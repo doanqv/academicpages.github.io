@@ -2,9 +2,6 @@
 permalink: /press/
 title: "Press"
 author_profile: true
-redirect_from: 
-  - /press/
-  - /press.html
 ---
 
 **Michigan Radio's State of Opportunity**
