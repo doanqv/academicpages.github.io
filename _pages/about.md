@@ -14,4 +14,5 @@ My research uses large-scale administrative data from Tennessee and New Mexico t
 
 Prior to attending Vanderbilt, I earned a B.A. in English and political science from the University of Notre Dame. 
 
+APPAM 2018: I will be presenting a poster during the [Thursday Poster Happy Hour](https://appam.confex.com/appam/2018/webprogram/Session11098.html) on my work examining the predictive validity of at-scale classroom observation scores. Please come by!
 
