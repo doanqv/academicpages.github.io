@@ -4,6 +4,11 @@ title: "Press"
 author_profile: true
 ---
 
+**Student Teacher Race Congruence in Tennessee**
+
+[For Black Students, Having a Black Teacher Can Be a Benefit, Study Finds](http://blogs.edweek.org/edweek/inside-school-research/2018/12/students_may_benefit_from_teac.html)
+
+
 **Michigan Radio's State of Opportunity**
 
 In 2017, I had the opportunity to make a (minor) contribution to a Michigan Radio State of Opportunity project entitled "[We Live Here"](http://stateofopportunity.michiganradio.org/post/we-live-here-neighborhood-school-brink-closure), which explores the history and future of neighborhood schools in Detroit. Links to my data visualization work are provided below:
