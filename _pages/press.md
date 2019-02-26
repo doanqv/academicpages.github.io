@@ -3,6 +3,9 @@ permalink: /press/
 title: "Press"
 author_profile: true
 ---
+**Elementary School Teacher Effectiveness and Reassignment in Tennessee**
+
+[Is Tennessee moving its weakest teachers to early, non-tested grades? New research says yes.](https://chalkbeat.org/posts/tn/2019/02/22/is-tennessee-moving-its-weakest-teachers-to-early-non-tested-grades-new-research-says-yes/)
 
 **Student Teacher Race Congruence in Tennessee**
 
